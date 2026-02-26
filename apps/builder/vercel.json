@@ -1,5 +1,5 @@
 {
   "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
-  "buildCommand": "cd ../.. && pnpm turbo run build --filter=@typebot-io/viewer",
+  "buildCommand": "cd ../.. && pnpm turbo run build --filter=@typebot-io/builder",
   "framework": "nextjs"
 }
